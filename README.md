@@ -1,4 +1,4 @@
-##Amazon Clone!!
+##Super E-Mart!!
 Link to the deployed website https://amazon-clone-rkt.netlify.app/
 
 
